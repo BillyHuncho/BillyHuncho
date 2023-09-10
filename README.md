@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything coding and technology
 - 🌱 I’m currently learning WEB DEV
 - 💞️ I’m looking to collaborate on many exciting projects
-- 📫 How to reach me ... via email
+- 📫 How to reach me ... via naomiphilip003@gmail.com
 
 <!---
 BillyHuncho/BillyHuncho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
